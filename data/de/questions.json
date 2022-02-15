@@ -1,0 +1,302 @@
+[
+  {
+    "id": "58d571e5-d725-4cf8-a438-32c16ee28eb6",
+    "text": "Ich glaube, dass Kunst wichtig ist",
+    "keyed": "plus",
+    "domain": "O"
+  },
+  {
+    "id": "888dd864-7449-4e96-8d5c-7a439603ea91",
+    "text": "Ich habe eine blühende Fantasie",
+    "keyed": "plus",
+    "domain": "O"
+  },
+  {
+    "id": "79186f48-e7fa-4df4-b74b-b0627ee244e1",
+    "text": "Ich tendiere dazu, politische Kandidaten zu unterstützen, die Fortschritt und Reformen zum Ziel haben",
+    "keyed": "plus",
+    "domain": "O"
+  },
+  {
+    "id": "f5987fe3-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Bringe das Gespräch auf eine höhere Ebene",
+    "keyed": "plus",
+    "domain": "O"
+  },
+  {
+    "id": "f5987fe4-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Genieße es, neue Ideen zu hören",
+    "keyed": "plus",
+    "domain": "O"
+  },
+  {
+    "id": "b99a005c-090c-454d-a905-dd0082a33ee3",
+    "text": "Bin an abstrakten Ideen nicht interessiert",
+    "keyed": "minus",
+    "domain": "O"
+  },
+  {
+    "id": "0f7c46a9-206f-4904-878c-cc04c80b2b73",
+    "text": "Mag keine Kunst",
+    "keyed": "minus",
+    "domain": "O"
+  },
+  {
+    "id": "95a3f20c-f933-4d19-a2c1-a7dbdf63c562",
+    "text": "Ich vermeide philosophische Diskussionen",
+    "keyed": "minus",
+    "domain": "O"
+  },
+  {
+    "id": "87c5b27e-59a8-4c48-8ba8-f5413d735693",
+    "text": "Ich gehe nicht gern zu (Kunst-)Ausstellungen",
+    "keyed": "minus",
+    "domain": "O"
+  },
+  {
+    "id": "96ba77b2-1a44-4dfd-95f9-ae4d1f714460",
+    "text": "Ich tendiere dazu, politische Kandidaten zu unterstützen, die konservative Ansichten vertreten",
+    "keyed": "minus",
+    "domain": "O"
+  },
+  {
+    "id": "5e8550d7-b8ef-4905-950a-f81d735d39e2",
+    "text": "Ich bin oft betrübt",
+    "keyed": "plus",
+    "domain": "N"
+  },
+  {
+    "id": "f0a14e16-d726-47e9-a2c1-647fd3d7d52e",
+    "text": "Ich mag mich selbst nicht",
+    "keyed": "plus",
+    "domain": "N"
+  },
+  {
+    "id": "743d8973-1de1-4485-91b4-8a5cf63e7d44",
+    "text": "Ich bin oft niedergeschlagen",
+    "keyed": "plus",
+    "domain": "N"
+  },
+  {
+    "id": "815e5ed1-f142-4fde-8c66-c1c2908355a7",
+    "text": "Habe häufig Stimmungsschwankungen",
+    "keyed": "plus",
+    "domain": "N"
+  },
+  {
+    "id": "2f519935-92e8-48ad-9746-4a0f8b38466a",
+    "text": "Ich gerate leicht in Panik",
+    "keyed": "plus",
+    "domain": "N"
+  },
+  {
+    "id": "fc8c518e-30b7-4ccd-a7a3-bc7452b888d8",
+    "text": "Bin selten gereizt",
+    "keyed": "minus",
+    "domain": "N"
+  },
+  {
+    "id": "d588951f-9f6f-43ac-bb56-733e3ad31ea5",
+    "text": "Fühle mich selten deprimiert (bedrückt)",
+    "keyed": "minus",
+    "domain": "N"
+  },
+  {
+    "id": "f40e421f-6c24-4be2-bd9f-28d33358d8c6",
+    "text": "Ich komme gut mit mir selbst aus",
+    "keyed": "minus",
+    "domain": "N"
+  },
+  {
+    "id": "c283c5bd-4708-432e-92c1-63213aa28f59",
+    "text": "Bin nicht leicht von Dingen gestört",
+    "keyed": "minus",
+    "domain": "N"
+  },
+  {
+    "id": "7e20a189-d1cd-4864-814e-e814e778e53d",
+    "text": "Bin sehr zufrieden mit mir",
+    "keyed": "minus",
+    "domain": "N"
+  },
+  {
+    "id": "af55f014-788c-4b6e-92c4-b2b59dc8a28d",
+    "text": "Ich fühle mich wohl, wenn ich unter Menschen bin",
+    "keyed": "plus",
+    "domain": "E"
+  },
+  {
+    "id": "d50a597f-632b-4f7b-89e6-6d85b50fd1c9",
+    "text": "Ich gewinne leicht Freunde",
+    "keyed": "plus",
+    "domain": "E"
+  },
+  {
+    "id": "f5987ff6-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Bin geschickt im Umgang mit sozialen Situationen",
+    "keyed": "plus",
+    "domain": "E"
+  },
+  {
+    "id": "f5987ff7-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Bringe eine Party in Schwung",
+    "keyed": "plus",
+    "domain": "E"
+  },
+  {
+    "id": "f5987ff8-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Weiß, wie man Menschen fesselt",
+    "keyed": "plus",
+    "domain": "E"
+  },
+  {
+    "id": "9cafc31e-9798-48dd-86b8-3140092836e3",
+    "text": "Habe wenig zu sagen",
+    "keyed": "minus",
+    "domain": "E"
+  },
+  {
+    "id": "e98b7166-6e28-4b07-adb8-a37b107d8259",
+    "text": "Halte mich im Hintergrund",
+    "keyed": "minus",
+    "domain": "E"
+  },
+  {
+    "id": "f5987ffb-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Würde meine Erfahrungen als etwas langweilig bezeichnen",
+    "keyed": "minus",
+    "domain": "E"
+  },
+  {
+    "id": "7e3469cc-5b19-472d-9efe-1ae4544ff533",
+    "text": "Mag es nicht, Aufmerksamkeit auf mich zu ziehen",
+    "keyed": "minus",
+    "domain": "E"
+  },
+  {
+    "id": "f5987ffd-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Spreche nicht viel",
+    "keyed": "minus",
+    "domain": "E"
+  },
+  {
+    "id": "f6076eea-56ae-4b46-97f1-5f94a7676c96",
+    "text": "Ich bin immer vorbereitet",
+    "keyed": "plus",
+    "domain": "C"
+  },
+  {
+    "id": "f5987fff-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Achte auf Details",
+    "keyed": "plus",
+    "domain": "C"
+  },
+  {
+    "id": "ed516b6b-2686-453e-8a7a-05fc1d8f1f64",
+    "text": "Erledige Hausarbeiten unmittelbar",
+    "keyed": "plus",
+    "domain": "C"
+  },
+  {
+    "id": "9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9",
+    "text": "Ich erledige meine Arbeit und führe meine Pläne aus",
+    "keyed": "plus",
+    "domain": "C"
+  },
+  {
+    "id": "f5988002-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Mache Pläne und halte dich daran",
+    "keyed": "plus",
+    "domain": "C"
+  },
+  {
+    "id": "c7db0ed8-df7d-49bf-942f-59e46ef743c4",
+    "text": "Ich vergeude meine Zeit",
+    "keyed": "minus",
+    "domain": "C"
+  },
+  {
+    "id": "f39aced8-60d5-4371-962e-b0d390dec3d3",
+    "text": "Finde es schwierig, mit Arbeit zu beginnen",
+    "keyed": "minus",
+    "domain": "C"
+  },
+  {
+    "id": "a9c97d6b-6721-4150-8d84-64ef3082f164",
+    "text": "Ich arbeite nur so viel, wie ich muss",
+    "keyed": "minus",
+    "domain": "C"
+  },
+  {
+    "id": "f5988006-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Denke Dinge nicht bis zum Ende durch",
+    "keyed": "minus",
+    "domain": "C"
+  },
+  {
+    "id": "f5988007-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Drücke mich vor meinen Pflichten",
+    "keyed": "minus",
+    "domain": "C"
+  },
+  {
+    "id": "4b4e9c5d-78d4-4b0a-b1ea-820077bb700a",
+    "text": "Habe für jeden ein gutes Wort",
+    "keyed": "plus",
+    "domain": "A"
+  },
+  {
+    "id": "6f66cdc0-9044-457b-b40d-501ecae15ee7",
+    "text": "Ich glaube, dass Menschen grundsätzlich gute Absichten haben",
+    "keyed": "plus",
+    "domain": "A"
+  },
+  {
+    "id": "f598a6f0-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Respektiere andere",
+    "keyed": "plus",
+    "domain": "A"
+  },
+  {
+    "id": "f598a6f1-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Akzeptiere die Menschen so wie sie sind",
+    "keyed": "plus",
+    "domain": "A"
+  },
+  {
+    "id": "f598a6f2-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Sorge dafür, dass Menschen sich wohl fühlen",
+    "keyed": "plus",
+    "domain": "A"
+  },
+  {
+    "id": "027a663a-217d-4b3b-b9c7-c26498a9ab47",
+    "text": "Habe eine scharfe Zunge",
+    "keyed": "minus",
+    "domain": "A"
+  },
+  {
+    "id": "f598a6f4-ca1b-11e8-99c5-7b2468b8a6ec",
+    "text": "Mach andere fertig",
+    "keyed": "minus",
+    "domain": "A"
+  },
+  {
+    "id": "9ab95f24-5f94-429e-be1e-2275a806b5db",
+    "text": "Vermute verborgene Motive bei anderen",
+    "keyed": "minus",
+    "domain": "A"
+  },
+  {
+    "id": "17910a55-a64a-4ed0-8b46-293e2fa2fe03",
+    "text": "Ich zahle es anderen heim",
+    "keyed": "minus",
+    "domain": "A"
+  },
+  {
+    "id": "0de0f900-cede-4538-9c00-5da4f830b028",
+    "text": "Ich beleidige Leute",
+    "keyed": "minus",
+    "domain": "A"
+  }
+]

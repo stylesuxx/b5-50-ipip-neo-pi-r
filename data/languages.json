@@ -4,6 +4,10 @@
     "text": "English"
   },
   {
+    "id":"de",
+    "text": "German"
+  },
+  {
     "id": "pt-br",
     "text": "Brazilian Portuguese" 
   }
